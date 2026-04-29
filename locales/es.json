@@ -1,26 +1,186 @@
 {
-    "page": {
-      "title": "Speedrun - Preguntas frecuentes"
+  "page": {
+    "title": "Speedrun - Preguntas frecuentes",
+    "description": "Página de preguntas frecuentes del programa a16z speedrun"
+  },
+  "testing": {
+    "title": "Panel de pruebas de traducción",
+    "translated": "Traducido",
+    "missing": "Pendiente",
+    "showKeys": "Mostrar claves de traducción",
+    "hideKeys": "Ocultar claves de traducción",
+    "highlightMissing": "Resaltar faltantes",
+    "unhighlightMissing": "Quitar resaltado",
+    "download": "Descargar traducción"
+  },
+  "banner": {
+    "text": "Las solicitudes para nuestra próxima cohorte en Los Ángeles están abiertas hasta el 11 de mayo de 2025. ¡Postula ahora en sr.a16z.com 🙌!"
+  },
+  "logo": {
+    "alt": "logotipo de a16z speedrun"
+  },
+  "nav": {
+    "home": "Inicio",
+    "portfolio": "Portafolio",
+    "startupDirectory": "Directorio de startups",
+    "demoDay": "Demo Day",
+    "perks": "Beneficios",
+    "faq": "Preguntas frecuentes",
+    "applyNow": "Postularse"
+  },
+  "language": {
+    "english": "INGLÉS",
+    "spanish": "ESPAÑOL",
+    "french": "FRANCÉS"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "portfolio": "Portafolio",
+    "startupDirectory": "Directorio de startups",
+    "demoDay": "Demo Day",
+    "perks": "Beneficios",
+    "faq": "Preguntas frecuentes"
+  },
+  "aria": {
+    "toggleAnswer": "Mostrar u ocultar respuesta"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Explora las categorías para encontrar respuestas a preguntas comunes sobre el programa, requisitos, proceso de solicitud y recursos.",
+    "contactIntro": "Si necesitas más ayuda, no dudes en",
+    "contactLink": "contactarnos"
+  },
+  "search": {
+    "label": "BUSCAR",
+    "placeholder": "Escribe para buscar preguntas..."
+  },
+  "categories": {
+    "all": "Todas las categorías",
+    "program": "Descripción del programa",
+    "eligibility": "Elegibilidad y solicitud",
+    "selection": "Proceso de selección",
+    "cohort": "Cohortes y ubicaciones",
+    "investment": "Términos de inversión",
+    "operations": "Apoyo operativo y recursos",
+    "founders": "Responsabilidades de los fundadores",
+    "alumni": "Red de egresados",
+    "immigration": "Inmigración y visas"
+  },
+  "program": {
+    "q1": "¿Qué cubre el programa a16z speedrun?",
+    "a1": {
+      "p1": "El programa a16z speedrun es un programa intensivo de doce semanas que guía a los fundadores en cada etapa clave de su crecimiento. Inicia con una introducción para establecer expectativas y presentar a la cohorte, y luego avanza hacia el desarrollo rápido del producto, abordando temas como MVP, adquisición de clientes y diseño de alianzas.",
+      "p2": "Durante el programa, las startups participan en sesiones con expertos y asesorías que cubren:",
+      "l1": "Construcción de marca y estrategia de lanzamiento al mercado",
+      "l2": "Adquisición de clientes y lanzamiento",
+      "l3": "Recaudación de fondos y alianzas estratégicas",
+      "l4": "Construcción de equipos y escalamiento operativo",
+      "l5": "Ventas empresariales y comunidad",
+      "l6": "Preparación para Demo Day",
+      "p3": "Este programa se imparte mediante sesiones presenciales, talleres, seminarios web y mentorías diseñadas para ayudar a escalar rápidamente."
     },
-    "testing": {
-      "title": "Pruebas de traducción",
-      "translated": "Traducido",
-      "missing": "Pendiente",
-      "showKeys": "Mostrar claves de traducción",
-      "hideKeys": "Ocultar claves de traducción",
-      "highlightMissing": "Resaltar pendientes",
-      "unhighlightMissing": "Quitar resaltado",
-      "download": "Descargar traducción"
-    },
-    "nav": {
-      "home": "Inicio",
-      "portfolio": "Portfolio",
-      "startupDirectory": "Startup Directory",
-      "demoDay": "Día de demostración",
-      "perks": "Beneficios",
-      "faq": "Preguntas frecuentes"
-    }
+    "q2": "¿Cuál es la estructura del programa?",
+    "a2": "El programa dura doce semanas intensivas y guía tu startup desde la idea hasta el lanzamiento, con sesiones, mentorías y un Demo Day final."
+  },
+  "eligibility": {
+    "q1": "¿Quién puede aplicar?",
+    "a1": "Aceptamos fundadores en etapas tempranas con ideas innovadoras.",
+    "q2": "¿Cómo aplico?",
+    "a2": "Envía tu solicitud a sr.a16z.com.",
+    "q3": "¿Cuál es la fecha límite?",
+    "a3": "La fecha límite es el 11 de mayo de 2025.",
+    "q4": "¿Puedo aplicar tarde?",
+    "a4": "Las solicitudes tardías se consideran para la siguiente cohorte.",
+    "q5": "¿Puedo aplicar solo?",
+    "a5": "Sí, aunque preferimos equipos.",
+    "q6": "¿Puedo aplicar con financiamiento previo?",
+    "a6": "Sí, aceptamos startups con capital inicial.",
+    "q7": "¿Puedo volver a aplicar?",
+    "a7": "Sí, puedes aplicar nuevamente.",
+    "q8": "¿Debo mudarme?",
+    "a8": "Sí, el programa es presencial.",
+    "q9": "¿Necesito el dinero?",
+    "a9": "No, también ofrecemos mentoría y red.",
+    "q10": "¿Y si no soy técnico?",
+    "a10": "Recomendamos tener cofundador técnico.",
+    "q11": "¿Dan retroalimentación?",
+    "a11": "Solo a candidatos entrevistados.",
+    "q12": "¿Puedo mandar dos ideas?",
+    "a12": "Recomendamos enfocarte en una.",
+    "q13": "¿Puedo estudiar o trabajar?",
+    "a13": "Se requiere dedicación completa."
+  },
+  "selection": {
+  "q1": "¿Cómo selecciona a16z a los equipos para speedrun?",
+  "a1": {
+    "intro": "Buscamos equipos que demuestren:",
+    "l1": "Capacidad comprobada de pasar de cero a uno sin esperar permiso",
+    "l2": "Desarrollo y ejecución rápidos",
+    "l3": "Perspectivas únicas o \"ventajas adquiridas\" que ofrezcan una ventaja competitiva clara",
+    "l4": "Habilidades sólidas y complementarias en tecnología, negocio y estrategia de salida al mercado",
+    "l5": "Señales tempranas de validación en el mercado (por ejemplo, prototipos o métricas), recomendables pero no obligatorias"
+  },
+  "q2": "¿Cómo está estructurado el proceso de evaluación?",
+  "a2": "Nuestro equipo revisa las solicitudes cada dos semanas. Si nos interesa continuar con la tuya, te invitaremos a enviar un breve video o a agendar una entrevista de 15 minutos. Respetamos tu tiempo, por lo que todas las entrevistas comienzan y terminan puntualmente. Después de la entrevista, podemos solicitar información adicional como referencias, datos u otros detalles sobre tu empresa. Nuestro objetivo es tomar decisiones finales rápidamente y darte respuesta.",
+  "q3": "Si a16z speedrun ya invirtió en una empresa con una idea similar a la mía, ¿afecta mis posibilidades?",
+  "a3": "En absoluto. Evaluamos a cada equipo por sus propios méritos. Aunque hayamos invertido en empresas similares, lo que importa es tu enfoque, la solidez de tu equipo y tu capacidad de ejecución. La similitud de ideas no es un impedimento.",
+  "q4": "¿Cuál es su política de conflicto al invertir en una categoría dentro de a16z speedrun?",
+  "a4": "Nos enfocamos en startups en etapas muy tempranas y priorizamos el perfil de los fundadores sobre las ideas. Esperamos que las ideas evolucionen, por lo que podríamos invertir en varias empresas dentro de la misma categoría, ya sea en speedrun o en otros fondos de a16z."
+},
 
+"cohort": {
+  "q1": "¿Dónde se llevará a cabo la próxima cohorte?",
+  "a1": "La próxima cohorte se llevará a cabo en Los Ángeles y se requiere asistencia presencial.",
+  "q2": "¿Con qué frecuencia y dónde se realizan las cohortes?",
+  "a2": "Organizamos dos cohortes al año: una en Los Ángeles y otra en San Francisco. Para 2026, el calendario está en proceso de definición, con la cohorte de Los Ángeles prevista para el primer o segundo trimestre y la de San Francisco para el tercer o cuarto trimestre.",
+  "q3": "¿Cuántas empresas son aceptadas en cada cohorte?",
+  "a3": "No hay un número mínimo fijo de empresas por cohorte. Nuestro enfoque principal es mantener un alto estándar en los fundadores que aceptamos."
+},
 
+  "investment": {
+    "q1": "¿Cuánto invierten?",
+    "a1": "Hasta USD 1,000,000 por startup.",
+    "q2": "¿Cuáles son los términos?",
+    "a2": "Se discuten durante onboarding.",
+    "q3": "¿Puedo buscar más inversión?",
+    "a3": "Sí, recomendamos hacerlo después del Demo Day."
+  },
+  "operations": {
+  "q1": "¿Con qué miembros del equipo de a16z speedrun trabajaré?",
+  "a1": "Recibirás apoyo de distintos miembros del equipo de a16z speedrun, incluyendo socios, asesores y expertos de la industria, de acuerdo con las necesidades específicas de tu empresa.",
+  "q2": "¿Qué apoyo operativo y recursos adicionales se ofrecen?",
+  "a2": "Además del programa principal, a16z speedrun ofrece un amplio apoyo operativo para ayudarte a enfrentar desafíos diarios. Esto incluye acceso a expertos en redes de capital, reclutamiento y gestión de talento, marketing y desarrollo de negocio. Nuestra red de asesores y socios está disponible para brindarte apoyo práctico y ayudarte a escalar tu empresa de manera efectiva."
+},
 
+"founders": {
+  "q1": "¿Cuáles son las responsabilidades y expectativas de los fundadores?",
+  "a1": "Nuestro programa está diseñado para apoyar el crecimiento de tu empresa en cada etapa. Para aprovechar al máximo esta oportunidad, fomentamos la participación activa en sesiones presenciales y virtuales, talleres interactivos y mentorías.",
+  "q2": "¿Cómo se mide el éxito durante el programa?",
+  "a2": "Nos enfocamos en tu progreso a través de metas claras y alcanzables. Durante el programa trabajarás en mejorar tu producto, conseguir tus primeros clientes y fortalecer tu estrategia de financiamiento. Para el Demo Day, esperamos ver avances concretos como tracción en el mercado y un modelo de negocio validado.",
+  "q3": "¿Qué pasa si tengo un conflicto de horario o no puedo asistir a una sesión?",
+  "a3": "Sabemos que las startups son dinámicas y pueden surgir imprevistos. Si no puedes asistir, notifícalo a tu responsable del programa lo antes posible. Ofrecemos sesiones grabadas y seguimiento individual, aunque se espera la asistencia presencial.",
+  "q4": "¿Cuál es el compromiso de tiempo en a16z speedrun?",
+  "a4": "El programa de 12 semanas está diseñado para ser intensivo pero manejable. Generalmente requiere un día enfocado por semana con sesiones, talleres y mentorías presenciales, dejando tiempo suficiente para trabajar en tu startup el resto de la semana."
+},
+
+"alumni": {
+  "q1": "¿Qué apoyo y red de egresados puedo esperar después del programa?",
+  "a1": "Después de finalizar el programa, seguirás teniendo acceso a nuestra red de egresados y a eventos exclusivos de networking. Este apoyo a largo plazo es clave para ayudarte a escalar tu empresa más allá del programa."
+},
+
+"immigration": {
+  "q1": "Estoy en Estados Unidos con una visa de trabajo. ¿Puedo participar en el programa?",
+  "a1": "En la mayoría de los casos, sí. Trabajamos con expertos en inmigración que han ayudado a muchos fundadores a gestionar sus requisitos de visa. Si eres aceptado, te conectaremos con los recursos adecuados para evaluar tus opciones.",
+  "q2": "Actualmente no tengo visa. ¿Puedo aplicar?",
+  "a2": "Sí. Sabemos que los temas migratorios pueden ser un reto para fundadores internacionales. Si eres aceptado en a16z speedrun, te pondremos en contacto con socios especializados que te ayudarán a obtener la visa necesaria."
+},
+"sr-logo": {
+  "alt": "logotipo de speedrun sr"
+},
+  "footer": {
+    "privacy": "Política de privacidad",
+    "terms": "Términos de uso",
+    "disclosures": "Avisos legales",
+    "copyright": "Andreessen Horowitz"
+  }
 }
